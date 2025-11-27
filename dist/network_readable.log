@@ -1,0 +1,17 @@
+10:32:52 – Monitoring started.
+10:32:53 – Speedtest check: enabled, not disconnected, time since last 29403872.9 min, interval 30 min
+10:32:53 – 🚀 Speedtest scheduled.
+10:32:56 – Speedtest check: enabled, not disconnected, time since last 0.1 min, interval 30 min
+10:32:56 – Speedtest not due yet: 0.1 < 30
+10:32:59 – Speedtest check: enabled, not disconnected, time since last 0.1 min, interval 30 min
+10:32:59 – Speedtest not due yet: 0.1 < 30
+10:33:03 – Speedtest check: enabled, not disconnected, time since last 0.2 min, interval 30 min
+10:33:03 – Speedtest not due yet: 0.2 < 30
+10:33:05 – ✅ Speedtest: DL 11.82 Mbps / UL 6.03 Mbps
+10:33:05 – Speedtest check: enabled, not disconnected, time since last 0.2 min, interval 30 min
+10:33:05 – Speedtest not due yet: 0.2 < 30
+10:33:08 – Speedtest check: enabled, not disconnected, time since last 0.3 min, interval 30 min
+10:33:08 – Speedtest not due yet: 0.3 < 30
+10:33:11 – Speedtest check: enabled, not disconnected, time since last 0.3 min, interval 30 min
+10:33:11 – Speedtest not due yet: 0.3 < 30
+10:33:13 – Monitoring stopped.

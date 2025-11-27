@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "D:\Github\Documents\Wifi Test\NetworkMonitorGUI.py", line 641, in <module>
+    main_win = NetworkMonitorGUI()
+  File "D:\Github\Documents\Wifi Test\NetworkMonitorGUI.py", line 294, in __init__
+    self._init_tray_icon()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\Github\Documents\Wifi Test\NetworkMonitorGUI.py", line 304, in _init_tray_icon
+    self.icon_green = QIcon(style.standardPixmap(QStyle.StandardPixmap.SP_DialogApplyButton))
+                                                 ^^^^^^
+NameError: name 'QStyle' is not defined. Did you mean: 'style'?

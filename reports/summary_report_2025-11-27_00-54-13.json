@@ -1,0 +1,11 @@
+{
+    "duration": "32.5 seconds",
+    "disconnects": "0",
+    "longest_outage": "0.0 seconds",
+    "avg_latency": "52.80 ms",
+    "max_jitter": "0.00 ms",
+    "avg_dns_latency": "1.35 ms",
+    "avg_http_ttfb": "1088.53 ms",
+    "avg_download": "94.05 Mbps",
+    "avg_upload": "47.86 Mbps"
+}
